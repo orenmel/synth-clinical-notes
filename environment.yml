@@ -1,0 +1,58 @@
+name: medlm
+channels:
+  - spacy
+  - defaults
+dependencies:
+  - ca-certificates=2019.1.23=0
+  - certifi=2019.3.9=py36_0
+  - libedit=3.1.20181209=hc058e9b_0
+  - libffi=3.2.1=hd88cf55_4
+  - libgcc-ng=8.2.0=hdf63c60_1
+  - libstdcxx-ng=8.2.0=hdf63c60_1
+  - ncurses=6.1=he6710b0_1
+  - openssl=1.1.1b=h7b6447c_1
+  - pip=19.1=py36_0
+  - python=3.6.8=h0371630_0
+  - readline=7.0=h7b6447c_5
+  - setuptools=41.0.0=py36_0
+  - sqlite=3.28.0=h7b6447c_0
+  - tk=8.6.8=hbc83047_0
+  - wheel=0.33.1=py36_0
+  - xz=5.2.4=h14c3975_4
+  - zlib=1.2.11=h7b6447c_3
+  - pip:
+    - blis==0.2.4
+    - chardet==3.0.4
+    - cymem==1.31.2
+    - cytoolz==0.9.0.1
+    - dill==0.2.9    
+    - ftfy==4.4.3
+    - html5lib==1.0.1
+    - idna==2.8
+    - jsonschema==2.6.0
+    - msgpack==0.6.1
+    - msgpack-numpy==0.4.1
+    - msgpack-python==0.5.6
+    - murmurhash==0.28.0
+    - numpy==1.16.3
+    - pathlib==1.0.1
+    - plac==0.9.6
+    - preshed==1.0.1
+    - pyyaml==5.1
+    - regex==2017.4.5
+    - requests==2.21.0
+    - six==1.12.0
+    - spacy==2.0.7
+    - srsly==0.0.5
+    - thinc==6.10.3
+    - toolz==0.9.0
+    - torch==0.3.1
+    - tqdm==4.31.1
+    - ujson==1.35
+    - urllib3==1.24.2
+    - wasabi==0.2.1
+    - wcwidth==0.1.7
+    - webencodings==0.5.1
+    - wrapt==1.10.11
+prefix: /anaconda3/envs/medlm
+
