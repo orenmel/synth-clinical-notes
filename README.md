@@ -189,3 +189,18 @@ Follow instructions from the MedNLI [github repository](https://github.com/jgc12
 Follow instructions from the [github repository](https://github.com/raymondhs/char-rnn-truecase) from [Susanto et al. 2016](https://www.aclweb.org/anthology/D16-1225). LSTM with the 'small'/'large' default parameters were used in the paper for MedText-2/MedText-103 experiments, respectively.
 
 
+## Reference
+The [paper](https://www.aclweb.org/anthology/W19-1905.pdf) was accepted to the ClinicalNLP Workshop at NAACL 2019
+
+Oren Melamud, and Chaitanya Shivade. __Towards Automatic Generation of Shareable Synthetic Clinical Notes Using Neural Language Models.__ Proceedings of the 2nd Clinical Natural Language Processing Workshop. 2019.
+
+```
+@inproceedings{melamud2019towards,
+  title={Towards Automatic Generation of Shareable Synthetic Clinical Notes Using Neural Language Models},
+  author={Melamud, Oren and Shivade, Chaitanya},
+  booktitle={Proceedings of the 2nd Clinical Natural Language Processing Workshop at NAACL},
+  url={https://www.aclweb.org/anthology/W19-1905.pdf},
+  pages={35--45},
+  year={2019}
+}
+```
